@@ -1,0 +1,19 @@
+{
+  "name": "externalize-entrypoint-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin that externalizes peer entry-points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirokiosame/ExternalizeEntrypointsPlugin.git"
+  },
+  "author": "Hiroki Osame <hiroki.osame@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokiosame/ExternalizeEntrypointsPlugin/issues"
+  },
+  "homepage": "https://github.com/hirokiosame/ExternalizeEntrypointsPlugin#readme"
+}
