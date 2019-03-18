@@ -2,7 +2,7 @@
   "name": "externalize-entrypoints-plugin",
   "version": "1.0.0",
   "description": "Webpack plugin that externalizes peer entrypoints",
-  "main": "index.js",
+  "main": "lib/ExternalsPlugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
